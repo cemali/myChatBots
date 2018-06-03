@@ -12,6 +12,7 @@ This library can be used both in a web browser or as a Node module.
 See the `eg/` folder for examples.
 
  good to go.
+ me too.
 ## DOCUMENTATION
 
 There is generated Markdown and HTML documentation of the modules in the
